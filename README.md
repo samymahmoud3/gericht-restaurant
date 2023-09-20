@@ -1,2 +1,1 @@
-# gericht-restaurant
-Restaurant Landing Page
+# Restaurant Landing Page
